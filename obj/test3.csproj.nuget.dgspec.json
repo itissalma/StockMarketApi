@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/salmaaly/Desktop/SCHOOL🖕🏼🖕🏼🖕🏼/Work/EGID/StockManagement/Backend/test3.csproj": {}
+  },
+  "projects": {
+    "/Users/salmaaly/Desktop/SCHOOL🖕🏼🖕🏼🖕🏼/Work/EGID/StockManagement/Backend/test3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/salmaaly/Desktop/SCHOOL🖕🏼🖕🏼🖕🏼/Work/EGID/StockManagement/Backend/test3.csproj",
+        "projectName": "test3",
+        "projectPath": "/Users/salmaaly/Desktop/SCHOOL🖕🏼🖕🏼🖕🏼/Work/EGID/StockManagement/Backend/test3.csproj",
+        "packagesPath": "/Users/salmaaly/.nuget/packages/",
+        "outputPath": "/Users/salmaaly/Desktop/SCHOOL🖕🏼🖕🏼🖕🏼/Work/EGID/StockManagement/Backend/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/salmaaly/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[1.6.6, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.412/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

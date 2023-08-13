@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/material": "^16.1.6",
+    "@microsoft/signalr": "^7.0.9"
+  }
+}
